@@ -11,7 +11,7 @@ Run this:
 
 ```sh
 git clone https://github.com/LogicLoader/FindPrivateGitEmail.git ~/FindGitEmail
-python ~/FindGitEmail/findgithubemail logicloader
+python ~/FindGitEmail/findgithubemail.py logicloader
 ```
 
 If you're not looking for me, replace `logicloader` with another GitHub user.
